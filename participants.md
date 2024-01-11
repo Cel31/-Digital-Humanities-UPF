@@ -4,8 +4,7 @@
 * Simone Ventura
 * Celine Kerfant, Cel31, archaeobotany
 
-### Add your Name, GitHub Name, Discipline
-* 
+### Add your Name, GitHub Name, Discipline 
 *  Selena Bartra Serrano, Slenabs, Literature
 *
 *
