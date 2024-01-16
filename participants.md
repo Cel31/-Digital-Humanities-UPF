@@ -21,5 +21,7 @@
 * Anita Licata, Anital12, Linguistic mediation
 * Selena Bartra Serrano, Slenabs, Literature
 * Laura Dalgaard, lauradalgaard, Film & Media 
+* Joan A. Piñas, JoanPinyas, Philosophy
 * Pau Arissa, PAC0303, Art
 * Miguel Berros Domínguez, Centoleiro, History
+
