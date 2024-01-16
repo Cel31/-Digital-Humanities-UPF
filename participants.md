@@ -20,6 +20,7 @@
 * Amélie Solanilla, AmelieST, Ancient and Medieval studies
 * Anita Licata, Anital12, Linguistic mediation
 * Selena Bartra Serrano, Slenabs, Literature
+* Pau Arissa Caellas, PAC0303, Art
 * Laura Dalgaard, lauradalgaard, Film & Media 
 * Joan A. Piñas, JoanPinyas, Philosophy
 * Pau Arissa, PAC0303, Art
